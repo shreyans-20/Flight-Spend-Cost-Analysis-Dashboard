@@ -78,5 +78,14 @@ Compares one-way vs. round-trip spending patterns.
 Slice data by airline, department, travel class, and date range.
 
 ---
+---
 
 ## 💼 Business Impact
+
+| Area | Insight |
+| --- | --- |
+| 💰 Cost Control | Pinpoints high-cost routes and departments for targeted reduction |
+| 🤝 Vendor Negotiation | Airline usage data to support pricing negotiations |
+| 📌 Policy Optimization | Surfaces last-minute booking behavior affecting costs |
+| 📋 Budget Planning | Supports forecasting and allocation across departments |
+| 👁 Operational Transparency | Centralized visibility into corporate travel spending |
