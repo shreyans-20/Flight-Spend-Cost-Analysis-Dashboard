@@ -78,7 +78,6 @@ Compares one-way vs. round-trip spending patterns.
 Slice data by airline, department, travel class, and date range.
 
 ---
----
 
 ## 💼 Business Impact
 
