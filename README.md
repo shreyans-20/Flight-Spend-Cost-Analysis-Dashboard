@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing corporate flight spending patterns, 
 
 ![image alt](https://github.com/shreyans-20/Flight-Spend-Cost-Analysis-Dashboard/blob/4f2d15fb9a8c7ac5caa531fe6e9ea3f08bbc5ef4/Flight%20Spend%20%26%20Cost%20Analysis%20Dashboard.png)
 
-![image alt]()
+![image alt](https://github.com/shreyans-20/Flight-Spend-Cost-Analysis-Dashboard/blob/7f129bf4b935272ab0a565e98b55e67028313efe/Map%20and%20Kpi%20Cards.png)
 
 ---
 
