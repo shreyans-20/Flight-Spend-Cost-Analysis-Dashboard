@@ -2,6 +2,10 @@
 
 An interactive Power BI dashboard analyzing corporate flight spending patterns, cost drivers, route-level expenses, and departmental travel behavior — built during my internship at TripTrip India to support financial control and strategic travel optimization.
 
+<img width="1297" height="724" alt="Screenshot 2026-02-21 200554" src="https://github.com/user-attachments/assets/add749b0-a09d-4719-b933-c719082b2417" />
+
+<img width="1294" height="725" alt="Screenshot 2026-02-20 183810" src="https://github.com/user-attachments/assets/3eabc030-4080-467a-8496-8c1d506b8e97" />
+
 ---
 
 ## 🎯 Objective
